@@ -38,3 +38,6 @@ src/.dirstamp
 # Documents
 ABOUT-NLS
 INSTALL
+
+# MacOS
+.DS_Store
